@@ -30,4 +30,4 @@ In order to implement all the compulsory signals, plese refer to the board's man
 
 ## LICENCE
 
-This project is licensed under the MIT license.
+This project is licensed under the GNU license.
